@@ -54,9 +54,6 @@ I’m constantly improving my understanding of software architecture, automation
 - Exploring cloud deployment and developer tooling
 - Strengthening software engineering fundamentals through practical work
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saksham&show_icons=true&theme=dark)
 
 ## Connect With Me
 
