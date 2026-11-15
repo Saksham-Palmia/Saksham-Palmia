@@ -1,46 +1,57 @@
-<p align="center">
-  <img src="assets/header.svg" alt="Saksham Palmia — Software developer. Backend systems. Practical AI. Thoughtful interfaces." width="100%">
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/saksham-palmia/"><img src="https://img.shields.io/badge/LinkedIn-Let%27s_connect-355431?style=flat-square" alt="Connect on LinkedIn"></a>
-  <a href="mailto:palmiasaksham@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-355431?style=flat-square" alt="Send an email"></a>
-  <a href="https://github.com/Saksham-Palmia?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_projects-355431?style=flat-square" alt="Explore my repositories"></a>
-</p>
+# Saksham Palmia
 
-## A little about me
+**Software developer · Backend engineering · Applied AI**
 
-I'm Saksham, a software developer interested in turning useful ideas into working software. I enjoy backend development, API design, and building interfaces that make technical tools easier to use.
+I build APIs, explore AI workflows, and turn backend projects into usable tools.
 
-My current projects explore natural-language data tools, IT workflow automation, and hiring platforms. I'm strengthening my full-stack skills through hands-on work and am open to collaboration, internships, and freelance opportunities.
+[LinkedIn](https://www.linkedin.com/in/saksham-palmia/) &nbsp; / &nbsp; [Email](mailto:palmiasaksham@gmail.com) &nbsp; / &nbsp; [Repositories](https://github.com/Saksham-Palmia?tab=repositories)
 
-## Selected projects
-
-| Project | What it does | Built with |
-| --- | --- | --- |
-| **[QueryMind ↗](https://github.com/Saksham-Palmia/querymind)** | A natural-language PostgreSQL workspace with a responsive UI, SQL inspection, sample mode, and a self-correcting query pipeline. | Python · FastAPI · LangGraph · PostgreSQL |
-| **[Veridian IT Service Agent ↗](https://github.com/Saksham-Palmia/Veridian-IT-agent)** | An IT support workflow with employee chat, policy retrieval, ticket creation, and an admin dashboard. | Python · FastAPI · SQLAlchemy · Gemini |
-| **[ZidioConnect ↗](https://github.com/Saksham-Palmia/ZidioConnect)** | A hiring-platform backend covering student and recruiter workflows, job applications, and REST APIs. | Java · Spring Boot · MySQL |
-
-<a href="https://github.com/Saksham-Palmia/querymind">
-  <img src="https://raw.githubusercontent.com/Saksham-Palmia/querymind/main/docs/assets/workspace.png" alt="Explore QueryMind: a visual workspace for asking questions about your data" width="100%">
-</a>
-
-<p align="center"><sub>A look inside QueryMind — open the repository for the code and local demo.</sub></p>
-
-## Tools I work with
-
-**Languages** · Python, Java, JavaScript, TypeScript, SQL  
-**Web** · React, Next.js, HTML, CSS, Tailwind CSS  
-**Backend** · FastAPI, Spring Boot, Node.js, Express, REST APIs  
-**Data & tooling** · PostgreSQL, MySQL, Git, Docker
-
-## What I'm exploring
-
-- Making AI workflows easier to inspect, test, and use.
-- Designing clearer APIs and more reliable backend systems.
-- Bringing backend projects to life with useful interfaces and documentation.
+</div>
 
 ---
 
-Have an idea worth building? Reach me on **[LinkedIn](https://www.linkedin.com/in/saksham-palmia/)** or at **[palmiasaksham@gmail.com](mailto:palmiasaksham@gmail.com)**.
+### Selected work
+
+#### 01 &nbsp; [QueryMind](https://github.com/Saksham-Palmia/querymind)
+**A question-to-SQL workspace for PostgreSQL.**
+
+Explore sample data or connect a database, ask a question, and inspect the SQL behind the answer. Includes result filtering, CSV export, and a query correction pipeline.
+
+<sub>Python &nbsp; · &nbsp; FastAPI &nbsp; · &nbsp; LangGraph &nbsp; · &nbsp; PostgreSQL</sub>
+
+#### 02 &nbsp; [Veridian IT Service Agent](https://github.com/Saksham-Palmia/Veridian-IT-agent)
+**IT support, from the first question to a tracked resolution.**
+
+Employee chat connects policy retrieval, ticket creation, and an admin dashboard in a single support workflow.
+
+<sub>Python &nbsp; · &nbsp; FastAPI &nbsp; · &nbsp; SQLAlchemy &nbsp; · &nbsp; Gemini</sub>
+
+#### 03 &nbsp; [ZidioConnect](https://github.com/Saksham-Palmia/ZidioConnect)
+**The backend behind a hiring platform.**
+
+REST APIs for student and recruiter workflows, job listings, and applications.
+
+<sub>Java &nbsp; · &nbsp; Spring Boot &nbsp; · &nbsp; MySQL</sub>
+
+---
+
+### My toolkit
+
+| Area | Technologies |
+| :--- | :--- |
+| Languages | Python, Java, JavaScript, TypeScript, SQL |
+| Interfaces | React, Next.js, HTML, CSS, Tailwind CSS |
+| Backend | FastAPI, Spring Boot, Node.js, Express |
+| Data & development | PostgreSQL, MySQL, Git, Docker |
+
+### Current direction
+
+I'm working on clearer API design, more testable AI workflows, and interfaces that make the underlying system easier to understand. Most of that learning happens through the projects above.
+
+Open to **internships, collaboration, and freelance work**.
+
+---
+
+<sub>[palmiasaksham@gmail.com](mailto:palmiasaksham@gmail.com) &nbsp; · &nbsp; [linkedin.com/in/saksham-palmia](https://www.linkedin.com/in/saksham-palmia/)</sub>
